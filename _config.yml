@@ -27,25 +27,25 @@ highlighter: rouge
 #disqus: artiannaswamy
 
 # if you don't have any of social below, comment the line
-# facebook: myfacebook
-twitter: NivedithaRam
+# facebook: issa.evans
+# twitter: NivedithaRam
 # google: mygoogle
-# instagram: myinstagram
+ instagram: _ilyssaevans
 #pinterest: annasw
 #linkedin: artiannaswamy
 # youtube: myyoutube
 # spotify: myspotify
-github: NivedithaRam
+github: ilyssaevans
 # medium: medium
-email: niveditha.ramasubramanian@stonybrook.edu
+email: ilyssaevans@gmail.com
 
 authors:
-    NivedithaRam:
-        name: Niveditha Ram
-        bio: Physics, Reading, Teaching.
+    IlyssaEvans:
+        name: Ilyssa Evans
+        bio: photography and stories with a splash of art.
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: NivedithaRam
+        picture: assets/images/ilyssa_profile.JPG
+        # twitter: 
 
 
 # do you want a larger site? change the option below
@@ -58,9 +58,9 @@ width: large
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-# projects: true
-research: true
-teaching: true
+ projects: true
+# research: true
+# teaching: true
 # if you don't need about or blog, comment them out below
 about: true
 blog: true
