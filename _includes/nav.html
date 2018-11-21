@@ -14,18 +14,18 @@
             {% endif %}
         {% endif %}
 
-        {% if site.photography == true %}
-            {% if page.title != "Photography" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/photography">Photography</a>
-                </li>
-            {% endif %}
-        {% endif %}
-
         {% if site.blog == true %}
             {% if page.title != "Blog" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/blog">Blog</a>
+                </li>
+            {% endif %}
+        {% endif %}
+
+        {% if site.photography == true %}
+            {% if page.title != "Photography" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/photography">Photography</a>
                 </li>
             {% endif %}
         {% endif %}
