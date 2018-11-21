@@ -1,16 +1,14 @@
 # main text of home
-name: ilyssa evans
-bio: 'sorry for spilling on you
-
-Life through my lens'
+name: ilyssa
+bio: life through my lens
 
 # twitter summary info
-description: Life through my lens
+# description: Life through my lens
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: 'assets/images/ilyssa_profile.JPG'
+picture: 'assets/images/ilyssa_profile_2.JPG'
 
 # url: http://artiannaswamy.com
 # your url: http://USERNAME.github.io
