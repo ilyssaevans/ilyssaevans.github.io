@@ -30,7 +30,13 @@
             {% endif %}
         {% endif %}
 
-c
+        {% if site.landscapes == true %}
+            {% if page.title != "Landscapes" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/lansscapes">Landscapes</a>
+                </li>
+            {% endif %}
+        {% endif %}
                 
     </ul>
 </nav>
