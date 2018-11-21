@@ -1,7 +1,6 @@
 ---
-title: photography
+title: Photography
 layout: page
-permalink: /photography/index.html
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
