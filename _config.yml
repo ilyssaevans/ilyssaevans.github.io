@@ -9,8 +9,8 @@ bio: life through my lens
 external-image: false
 picture: 'assets/images/ilyssa_profile_2.JPG'
 
-# url: http://artiannaswamy.com
-# your url: http://USERNAME.github.io
+# url: http://ilyssaevans.com
+# your url: http://ilyssaevans.github.io
 
 permalink: /:title/
 
@@ -21,7 +21,7 @@ highlighter: rouge
 #analytics-google: 'UA-74313908-1'
 
 # if you don't want comments in your posts, set to false
-#disqus: artiannaswamy
+#disqus: ilyssaevans.com
 
 # if you don't have any of social below, comment the line
 # google: mygoogle
