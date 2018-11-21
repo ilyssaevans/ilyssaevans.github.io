@@ -74,6 +74,7 @@ paginate_path: "blog/:num/"
 about: true
 photography: true
 blog: true
+landscapes: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
