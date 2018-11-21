@@ -31,32 +31,32 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: https://www.facebook.com/issa.evans
+# twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: _ilyssaevans
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+# github: mygithub
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: ilyssaevans@gmail.com
 
-authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
-        external-image: false
-        picture: assets/images/monkeyprofile.jpg
-        twitter: johndoe
+#authors:
+ #   johndoe:
+  #      name: John Doe
+   #     bio: A Man who travels the world eating noodles
+    #    external-image: false
+     #   picture: assets/images/monkeyprofile.jpg
+      #  twitter: johndoe
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -87,7 +87,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true
