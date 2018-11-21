@@ -4,4 +4,9 @@ layout: page
 permalink: /photography/index.html
 ---
 
-ilyssa with an 'i' - yes, that's an uppercase 'I' and a lowercase 'l'<br>
+<ul>
+	<li><a href="https://github.com/">Landscapes</a></li>
+	<li><a href="https://github.com/">Portraits</a></li>
+	<li><a href="https://github.com/">Science</a></li>
+	<li><a href="https://github.com/">Miscellaneous</a></li>
+</ul>
