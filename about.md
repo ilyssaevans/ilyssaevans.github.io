@@ -4,13 +4,14 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-I am a PhD student in Nuclear Physics at [Stony Brook university](http://www.physics.sunysb.edu/Physics/) supervised by Prof. Thomas Hemmick and Prof. Abhay Deshpande. I did my undergraduate studies in Electrical and Elctronics Engineering at [SASTRA University](http://www.sastra.edu/), India. 
+ilyssa with an 'i' - yes, that's an uppercase 'I' and a lowercase 'l'
 
-I work on a really fun hardware project in which, I help in the design and construction of a [Time Projection Chamber](https://en.wikipedia.org/wiki/Time_projection_chamber) for a proposed [sPHENIX](https://www.sphenix.bnl.gov/web/)  detector system. In parallel, I also work on the measurement of direct photons in forward rapidities from d+Au collisions fron run 2016 at Brookhaven National Lab. This measurement allows for strong constraints of nuclear effects related to gluon saturation as well as insight into the physics of the color glass condensate. More details on my research can be found here.
+Professional Background
+I hold a B.S. in Chemical Engineering from UC Berkeley, which came to pass from a deep-rooted (albeit, self-deprecating) desire to be a 'jack of all trades'. I started my career in academic R&D, having an internships at UC Berkeley and MIT with a heavy focus on synthetic biology applications. During my internships, the natural curiosity I always had about life sciences rapidly developed into a passion that led to working in industrial R&D settings at DuPont and Genentech. During my time at Genentech, I worked in tandem in Business Operations where I expanded my basic coding skills and developed tools and models for the technical development group. It was here that I picked up a natural knack for the business world and got curious about other aspects of Big Pharma business - beyond what I could see in my role at Genentech. I accepted my offer from Deloitte during Fall of my senior year, and recently celebrated my first anniversary. Here, I am a consultant who focuses on life sciences software implementation. Details related to my professional journey can be found on my resume. 
 
-Apart from research, I am very passionate about teaching. Over the last couple of years, I have taught lab courses in Physics for life science undergraduate majors and have volunteered at local elementary school to set up small lab sessions to kindle curiosity and interest in science. More recently, I am designing a curriculum to teach year long to High school students as part of the University's [graduate women in science outreach program](http://www.stonybrook.edu/commcms/wise/pre-college/high_school). More details of my teaching journey can be found [here.](https://niveditharam.github.io/teaching/)
+Fun Stuff
+When I'm not busy consulting, you can find me photographing my friends and family at the beach, experimenting with the latest beauty fad, scuba diving on Catalina island, airbrushing a skateboard deck, shopping at South Coast Plaza, creating a new smoothie recipe, designing a graphic on illustrator, helping my 13 year old niece with math, or of course, my personal favorite - taking a spontaneous trip. These are just a few of the things I call 'hobbies'. Stories, photos, reviews, recipes, and another other data generated from theses exerpiences can be found throughout my website :P 
 
+Feel free to reach out if you are interested in collaboration, or just anything
 
-More information on my academic journey can be found in my CV.
-
-Apart from all this, I love theatre, meeting new people, travelling and reading. Feel free to write to me with any questions or opportunities in teaching or theatre that you think will interest me. 
+-i
