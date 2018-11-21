@@ -3,6 +3,9 @@ title: About
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
+<br><br><br>
+assets/images/profile2.jpg
+<br><br><br>
 
 ilyssa with an 'i' - yes, that's an uppercase 'I' and a lowercase 'l'<br>
 <br>
