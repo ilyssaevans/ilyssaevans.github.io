@@ -3,7 +3,6 @@ name: ilyssa
 bio: life through my lens
 
 # twitter summary info
-# description: Life through my lens
 
 # if it's an external image, update below for true
 # better with square images
@@ -25,17 +24,10 @@ highlighter: rouge
 #disqus: artiannaswamy
 
 # if you don't have any of social below, comment the line
-# facebook: issa.evans
-# twitter: NivedithaRam
 # google: mygoogle
  instagram: _ilyssaevans
-#pinterest: annasw
-#linkedin: artiannaswamy
-# youtube: myyoutube
-# spotify: myspotify
-github: ilyssaevans
-# medium: medium
-email: ilyssaevans@gmail.com
+ github: ilyssaevans
+ email: ilyssaevans@gmail.com
 
 authors:
     IlyssaEvans:
@@ -49,19 +41,19 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: large
+width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
- projects: true
-# research: true
+ # projects: true
+ pictures: true
+ blog: true
+ about: true
 # teaching: true
 # if you don't need about or blog, comment them out below
-about: true
-blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
