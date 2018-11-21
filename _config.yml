@@ -1,14 +1,11 @@
 # main text of home
-name: ilyssa evans
-bio:  life through my lens 
-
-# twitter summary info
-description: A blog about technology and stuff related
+name: ilyssa
+bio:  life through my lens
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile1.jpg
+picture: assets/images/monkeyprofile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -34,32 +31,32 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: issa.evans
+# twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: _ilyssaevans
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+# github: mygithub
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: ilyssaevans@gmail.com
 
-authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
-        external-image: false
-        picture: assets/images/final2.jpg
-        twitter: johndoe
+#authors:
+ #   johndoe:
+  #      name: John Doe
+   #     bio: A Man who travels the world eating noodles
+    #    external-image: false
+     #   picture: assets/images/monkeyprofile.jpg
+      #  twitter: johndoe
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -90,7 +87,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true
