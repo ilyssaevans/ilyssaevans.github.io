@@ -72,8 +72,8 @@ paginate_path: "blog/:num/"
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-photography: true
 blog: true
+photography: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
